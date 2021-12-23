@@ -1,6 +1,3 @@
-//Name: Ori Bachar ID: 208254516
-//Nitzan Miranda ID:316591759
-
 package algo1;
 
 import java.util.LinkedList;
